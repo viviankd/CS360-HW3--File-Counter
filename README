@@ -1,4 +1,4 @@
-# CS 360 File Counter
+## CS 360 File Counter
 # Completed by Vivian Duong
 
 Compile: gcc main.c fileCounter.c
